@@ -16,16 +16,18 @@ Here are some ideas to get you started:
 -->
 ### About Me
 
+- [x] Master's in Health Informatic
+- [x] Google Data Analytics Coursera Certificate
+- [ ] Exam PL-300: Microsoft Power BI Data Analyst 
+
 :lungs: former respiratory therapist
 
-:bike: bike rides on rail-trails
+:bike: love bike rides on rail-trails
 
 :skateboard: learning how to stay on a longboard
 
-:climbing_woman: interested in climbing
-
 ### What I'm Working on
 * portfolio projects with [Alex Freberg](https://www.youtube.com/watch?v=QILNlRvJlfQ)
-* 8 week SQL challenge with [Danny Ma](https://8weeksqlchallenge.com)
+* Serious SQL with [Danny Ma](https://www.datawithdanny.com/)
 * [HackerRank's](https://www.hackerrank.com/domains/sql) SQL challenges 
 * reading through [SQL Cookbook](https://www.oreilly.com/library/view/sql-cookbook-2nd/9781492077435/)
