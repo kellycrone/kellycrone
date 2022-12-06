@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### About Me
 
-- [x] Master's in Health Informatic
+- [x] Master's in Health Informatics
 - [x] Google Data Analytics Coursera Certificate
 - [ ] Exam PL-300: Microsoft Power BI Data Analyst 
 
