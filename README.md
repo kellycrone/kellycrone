@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 :lungs: former respiratory therapist
 
-:bike: love bike rides on rail-trails
+:bike: love long bike rides on rail-trails
 
 :skateboard: learning how to stay on a longboard
 
